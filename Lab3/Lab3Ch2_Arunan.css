@@ -1,0 +1,11 @@
+body{background-color: Red}
+
+.greentText{
+  color:Green;
+  font-style: italic;
+}
+
+li{
+  font-size: 30px;
+  display: inline;
+}
